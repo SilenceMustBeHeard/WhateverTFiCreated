@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YE9+IL/s1mk=",
+  "dgSpecHash": "fkXMjswYHXk=",
   "success": true,
   "projectFilePath": "C:\\Users\\samae\\source\\repos\\WhateverTFICreated\\WhateverTFICreated.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\samae\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.2.24474.11\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.2.24474.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

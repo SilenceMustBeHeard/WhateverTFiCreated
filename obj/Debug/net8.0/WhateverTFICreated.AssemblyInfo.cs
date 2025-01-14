@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhateverTFICreated")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+964eb6999ed4f75be3217561ee79fd3abd058fa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhateverTFICreated")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhateverTFICreated")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

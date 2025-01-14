@@ -17,12 +17,12 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\samae\\source\\repos\\WhateverTFICreated\\wwwroot\\htmlpage.html",
-      "PackagePath": "staticwebassets\\htmlpage.html"
-    },
-    {
       "Id": "C:\\Users\\samae\\source\\repos\\WhateverTFICreated\\wwwroot\\images\\images.jpg",
       "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\samae\\source\\repos\\WhateverTFICreated\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "C:\\Users\\samae\\source\\repos\\WhateverTFICreated\\wwwroot\\js\\site.js",

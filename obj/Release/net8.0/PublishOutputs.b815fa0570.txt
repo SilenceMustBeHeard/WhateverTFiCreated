@@ -1,0 +1,7 @@
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\WhateverTFICreated.exe
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\WhateverTFICreated.dll
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\WhateverTFICreated.deps.json
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\WhateverTFICreated.runtimeconfig.json
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Release\net8.0\PubTmp\Out\WhateverTFICreated.pdb

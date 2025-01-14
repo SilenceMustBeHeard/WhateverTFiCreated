@@ -26,9 +26,9 @@ C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\staticwebassets\
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WhateverTFICreated.props
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WhateverTFICreated.props
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\WhateverTFICreated.dll
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\refint\WhateverTFICreated.dll
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\WhateverTFICreated.pdb
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\WhateverTFICreated.genruntimeconfig.cache
 C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\ref\WhateverTFICreated.dll
+C:\Users\samae\source\repos\WhateverTFICreated\obj\Debug\net8.0\WhateverTFICreated.sourcelink.json
